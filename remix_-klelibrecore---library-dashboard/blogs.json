@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "The Future of Quantum Computing in Libraries",
+    "excerpt": "How quantum algorithms will revolutionize metadata indexing and search optimization in modern digital libraries.",
+    "content": "Quantum computing represents the next frontier in computational science...",
+    "author": "Dr. Elena Vance",
+    "date": "May 12, 2026",
+    "category": "Technology",
+    "imageUrl": "https://picsum.photos/seed/quantum/800/400",
+    "readTime": "6 min read"
+  },
+  {
+    "id": "2",
+    "title": "Clean Code vs. Fast Code: The Librarian's Dilemma",
+    "excerpt": "Why maintainability often trumps raw performance in long-term archival projects.",
+    "content": "As software librarians, we often face the choice between optimized performance and clear, readable code...",
+    "author": "Robert C. Martin",
+    "date": "May 10, 2026",
+    "category": "Best Practices",
+    "imageUrl": "https://picsum.photos/seed/code/800/400",
+    "readTime": "4 min read"
+  },
+  {
+    "id": "3",
+    "title": "Decentralized Archives: Blockchain in Library Systems",
+    "excerpt": "Exploring the use of distributed ledgers for immutable record-keeping and royalty management.",
+    "content": "Blockchain is more than just cryptocurrency. For libraries, it offers a way to verify provenance...",
+    "author": "Satoshi Nakamoto",
+    "date": "May 08, 2026",
+    "category": "Innovation",
+    "imageUrl": "https://picsum.photos/seed/blockchain/800/400",
+    "readTime": "8 min read"
+  }
+]
