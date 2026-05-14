@@ -1,10 +1,10 @@
-# Library-Management-System 📗📖📗📚
+# Library-Management-System(LMS) 📗📖📗📚
 
 <img width="1200" height="900" alt="collage" src="https://github.com/user-attachments/assets/6143169e-d9c1-4385-ba60-bab0654dc3e0" />
 
 
 
-# 📚 Library Management System (LMS)
+# 📚 KLELIBRECORE
 
 A modern full-stack **Library Management System** designed for colleges and universities with dedicated portals for **Users, Employees, and Admins**.
 
